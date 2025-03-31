@@ -5,7 +5,7 @@ function App() {
     return (
         <div className="container">
             <header>
-                <h1>Makhanaaa Truck</h1>
+                <h1>Makhana Truck</h1>
                 <p>Crunchy. Healthy. Delicious.</p>
             </header>
             <section className="hero">
